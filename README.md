@@ -15,3 +15,4 @@
 - Log Entropy Model (LEM)
 - FAISS
 - Neural Network
+- LASER Language-Agnostic SEntence Representations
