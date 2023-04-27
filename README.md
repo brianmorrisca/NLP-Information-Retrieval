@@ -16,3 +16,8 @@
 - FAISS
 - Neural Network
 - LASER Language-Agnostic SEntence Representations
+
+
+# Embeddings
+
+https://huggingface.co/spaces/mteb/leaderboard
